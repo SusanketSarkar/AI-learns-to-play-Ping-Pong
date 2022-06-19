@@ -1,5 +1,5 @@
 <h1 align='center'> AI learns to play Ping Pong </h1>
-<h3> A pingpong game played by AI using NEAT (Neuroevolution of Augmenting Topologies)</h3>
+<h3 align='center'> A pingpong game played by AI using NEAT (Neuroevolution of Augmenting Topologies)</h3>
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/SusanketSarkar/AI-learns-to-play-Ping-Pong/blob/main/images/example01.gif">
